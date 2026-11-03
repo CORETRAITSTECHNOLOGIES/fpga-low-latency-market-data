@@ -1,0 +1,10 @@
+build/
+*.vcd
+*.wdb
+*.jou
+*.log
+.Xil/
+*.cache/
+*.runs/
+*.gen/
+__pycache__/
